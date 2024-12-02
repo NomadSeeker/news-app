@@ -1,0 +1,16 @@
+
+@media (min-width: 1150px) {
+    .list_container {
+        display: flex;
+        flex-direction: column;
+        justify-content: flex-start;
+    }
+
+    .list_articles {
+        height: fit-content;
+        
+    }
+
+
+}
+

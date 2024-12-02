@@ -21,11 +21,29 @@
   align-items: center;
   justify-content: center;
   font-size: calc(10px + 2vmin);
-  color: white;
+
 }
 
 .App-link {
   color: #61dafb;
+}
+
+.main_content {
+  padding-top: 5rem;
+  padding-left: 0.7rem;
+  padding-right: 0.7rem;
+}
+
+.main_section {
+ 
+}.main_content {
+  padding-top: 5rem;
+  padding-left: 3rem;
+  padding-right: 3rem;
+}
+
+@media (min-width: 1150px) {
+
 }
 
 @keyframes App-logo-spin {
